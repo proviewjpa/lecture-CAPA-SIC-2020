@@ -6,19 +6,19 @@
 --------------------------------------------------------------------------------------------------------------------------------
 
 Por que proteger o endpoint?
-AV (antivírus) ou NGAV (next generation antivírus)?
+++AV (antivírus) ou NGAV (next generation antivírus)?
 	Obs.: PUT NEW CASES HERE! SITUATIONS IN NOWADAYS.
 	O que esperar de um NGAV?
 	Diferencial dos NGAV
-Processo de migração McAfee - Kaspersky
+++Processo de migração McAfee - Kaspersky
 	Evolução da migração
 	Estratégia de migração
 	Diferenças observadas
-Problemas enfrentados
+++Problemas enfrentados
 	Desinstalação do McAfee
 	Incompatibilidade com Linux MB / erros de instalação
 	Falta de padronização
-Kaspersky na MB
+++Kaspersky na MB
 	Quantidade de políticas
 	Quantidade de tarefas
 	Quantidade de grupos
@@ -47,5 +47,3 @@ O objetivo de um ataque Scan.Generic.TCP é encontrar uma porta aberta e um serv
 Um ataque bem-sucedido do Scan.Generic.TCP pode resultar em divulgação de informações.
 
 --------------------------------------------------------------------------------------------------------------------------------
-
-Inserção do BRANCH topics-1!!!
