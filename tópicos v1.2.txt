@@ -1,0 +1,45 @@
+﻿Kaspersky – Melhores práticas
+- Processo de migração McAfee - Kaspersky
+- Política de atualização na MB
+- Problemas enfrentados
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Por que proteger o endpoint?
+AV (antivírus) ou NGAV (next generation antivírus)?
+	O que esperar de um NGAV?
+	Diferencial dos NGAV
+Processo de migração McAfee - Kaspersky
+	Evolução da migração
+	Estratégia de migração
+	Diferenças observadas
+Problemas enfrentados
+	Desinstalação do McAfee
+	Incompatibilidade com Linux MB / erros de instalação
+	Falta de padronização
+Kaspersky na MB
+	Quantidade de políticas
+	Quantidade de tarefas
+	Quantidade de grupos
+	Estrutura de atualização
+Ganhos observados e alguns números
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ataques de rede:::
+
+Bruteforce.generic.rdp
+Um ataque Bruteforce.Generic.RDP tenta encontrar um par válido de login / senha do RDP, verificando sistematicamente todas as senhas possíveis até que a senha correta seja encontrada.
+Um ataque bem-sucedido do Bruteforce.Generic.RDP permite que um invasor obtenha acesso remoto ao computador host de destino.
+
+Intrusion.win.ms17
+Tem como alvo computadores Windows e tenta explorar vulnerabilidades MS17-010 através do protocolo SMB.
+A exploração bem-sucedida dessas vulnerabilidades pode resultar na execução remota de código nos computadores de destino.
+As explorações que visam as vulnerabilidades do MS17-010 foram usadas nos ataques de ransomware WannaCry e ExPetr.
+
+scan.generic.tcp
+Um ataque Scan.Generic.TCP tenta identificar e enumerar os serviços de rede TCP em execução nos hosts de destino.
+O objetivo de um ataque Scan.Generic.TCP é encontrar uma porta aberta e um serviço de rede em execução nessa porta.
+Um ataque bem-sucedido do Scan.Generic.TCP pode resultar em divulgação de informações.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
