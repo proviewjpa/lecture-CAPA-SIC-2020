@@ -3,10 +3,11 @@
 - Política de atualização na MB
 - Problemas enfrentados
 
---------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 Por que proteger o endpoint?
 AV (antivírus) ou NGAV (next generation antivírus)?
+	Obs.: PUT NEW CASES HERE! SITUATIONS IN NOWADAYS.
 	O que esperar de um NGAV?
 	Diferencial dos NGAV
 Processo de migração McAfee - Kaspersky
@@ -22,9 +23,12 @@ Kaspersky na MB
 	Quantidade de tarefas
 	Quantidade de grupos
 	Estrutura de atualização
-Ganhos observados e alguns números
 
---------------------------------------------------------------------------------------------------------------------------------------------------
+SOLUÇÕES ENTREGUES PARA MB
+ROTINAS IMPLEMENTADAS
+GANHOS OBSERVADOS E ALGUNS NÚMEROS
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 Ataques de rede:::
 
@@ -42,4 +46,4 @@ Um ataque Scan.Generic.TCP tenta identificar e enumerar os serviços de rede TCP
 O objetivo de um ataque Scan.Generic.TCP é encontrar uma porta aberta e um serviço de rede em execução nessa porta.
 Um ataque bem-sucedido do Scan.Generic.TCP pode resultar em divulgação de informações.
 
---------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
