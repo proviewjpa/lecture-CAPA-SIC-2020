@@ -47,3 +47,5 @@ O objetivo de um ataque Scan.Generic.TCP é encontrar uma porta aberta e um serv
 Um ataque bem-sucedido do Scan.Generic.TCP pode resultar em divulgação de informações.
 
 --------------------------------------------------------------------------------------------------------------------------------
+
+Inserção do BRANCH topics-1!!!
